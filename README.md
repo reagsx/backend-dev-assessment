@@ -1,6 +1,6 @@
 # Candidate App
 
-Built with Python 2.7.12, Django 1.10.8. Uses sqlite3.
+Built with Python 2.7.12, Django 1.11.15, Django Filter 1.1.0, Uses sqlite3.
 
 To get started:
 
