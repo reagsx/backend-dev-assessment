@@ -1,0 +1,4 @@
+Django==1.11.15
+djangorestframework==3.5.4
+django-filter==1.1.0
+wheel==0.24.0
